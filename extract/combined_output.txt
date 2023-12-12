@@ -1,0 +1,26 @@
+Name: Lawrence Angrave
+Email: zaher@illinois.edu
+URL: https://cs.illinois.edu/about/people/department-faculty/angrave
+Research Interests:
+Social Sensing and Social Media Analysis
+Machine Learning for IoT/CPS
+Internet of Things (IoT)
+Cyber-Physical Systems (CPS)
+Sensor Networks and Crowdsensing
+
+Name: Adam Bates
+Email: batesa@illinois.edu
+URL: https://cs.illinois.edu/about/people/department-faculty/batesa
+Research Interests:
+Systems Security
+System Auditing, Data Provenance
+IoT/Mobile Security & Privacy
+Network & Communications Security
+
+Name: Mattox Alan Beckman
+Email: mattox@illinois.edu
+URL: https://cs.illinois.edu/about/people/department-faculty/mattox
+Research Interests:
+Programming Languages
+Computer Science Education
+
