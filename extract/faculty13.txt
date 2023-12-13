@@ -1,0 +1,24 @@
+Mattox Alan Beckman
+Teaching Associate Professor
+(217) 265-0731
+mattox@illinois.edu
+2212 Siebel Center for Comp Sci
+
+For More Information
+Mattox Beckman's Academic Page
+
+Education
+PhD in Computer Science / University of Illinois at Urbana / 2003
+BS in Math and Computer Science / University of Illinois at Urbana / 1993
+
+Biography
+I am a Teaching Associate Professor of Computer Science at the Univerisity of Illinois at Urbana-Champaign in the Department of Computer Science. I am passionate about teaching, functional programming languages (particulaly Haskell), and Competitive Programming/ICPC.
+
+I received my PhD from UIUC in 2003, studying self-applicable online partial evaluators under Sam Kamin. I taught Computer Science at the Illinois Institute of Technology for 13 years before returning here in 2015.
+
+Research Interests
+Programming Languages
+Computer Science Education
+
+URL
+https://cs.illinois.edu/about/people/department-faculty/mattox

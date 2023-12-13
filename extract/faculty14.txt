@@ -1,0 +1,21 @@
+Matthew Caesar
+Professor
+(847) 323-2968
+caesar@illinois.edu
+3118 Siebel Center for Comp Sci
+For More Information
+Matthew Caesar's home page
+Education
+Ph.D., Computer Science, University of California, Berkeley, 2007
+
+Biography
+I am a Professor in the Department of Computer Science at UIUC. I am also an Affiliate Professor in the Department of Electrical and Computer Engineering, an Affiliate Research Professor in the Coordinated Science Laboratory, Affiliate Professor in the School of Information Sciences, and a member of the Information Trust Institute. I currently serve as the Vice Chair of ACM SIGCOMM, and the co-chair of The Networking Channel, an online community talk series for the computer systems and networking community. I co-founded and previously served as the Chief Science Officer and President of Veriflow (sold to VMware in 2019). I received my Ph.D. in Computer Science from UC Berkeley.
+
+My research focuses on the design, analysis, and implementation of networked and distributed systems, with an emphasis on network virtualization, routing, network algorithms, systems security, and cloud services. I like taking a multi-pronged approach to system design, building systems that work well in practice but are grounded in strong theoretical principles. My recent work involves network security, network verification, and Internet of Things. For an overview of one of my projects please see this video.
+
+Research Areas
+Security and Privacy
+Systems and Networking
+
+URL
+https://cs.illinois.edu/about/people/department-faculty/caesar

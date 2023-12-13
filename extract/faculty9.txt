@@ -1,0 +1,20 @@
+Dakshita Khurana
+Assistant Professor
+(217) 244-0658
+dakshita@illinois.edu
+4308 Siebel Center for Comp Sci
+For More Information
+Dakshita Khurana's homepage.
+Education
+Ph. D., UCLA.
+Biography
+Dakshita Khurana is an Assistant Professor of Computer Science. She works in Cryptography and related topics in Privacy, Security and Theoretical Computer Science. She obtained her PhD from UCLA, under the fantastic supervision of Prof. Rafail Ostrovsky and Prof. Amit Sahai.
+She was recently a Google Research Fellow at the Simons Institute, Berkeley, and was names to Forbes List of 30 under 30 in Science. She has previously received the 2017-18 Dissertation Year Fellowship, the 2017-18 UCLA CS Outstanding Graduating Ph. D. Student Award, 2017-18 Symantec Outstanding Graduate Student Research Award, and the 2016-17 Cisco Outstanding Graduate Student Research Award.
+
+Research Interests
+Security and Privacy
+Theory and Algorithms
+Cryptography
+
+URL
+https://cs.illinois.edu/about/people/department-faculty/dakshita

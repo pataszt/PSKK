@@ -1,0 +1,25 @@
+Geoffrey Werner Challen
+Teaching Associate Professor
+(217) 300-6150
+challen@illinois.edu
+2227 Siebel Center for Comp Sci
+For More Information
+CS 124 Website
+Personal Website (geoffreychallen.com)
+Learn CS Online: Public CS1 Materials
+Education
+Ph.D. Computer Science, Harvard University, 6/2010
+AB Physics, Harvard University, 6/2003
+
+Biography
+My goal is to teach computer science to as many people as possible. I do this by creating interactive learning environments that scale. You can explore an example of my materials at learncs.online.
+I’m currently teaching faculty at the University of Illinois. I teach our first course on computer science for majors and students with a deep interest in the subject. You might call it CS1. We call it CS 124.
+
+Research Areas
+Computers and Education
+
+Research Honors
+National Science Foundation CAREER Award (2017)
+
+URL
+https://cs.illinois.edu/about/people/department-faculty/challen
