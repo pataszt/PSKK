@@ -1,20 +1,16 @@
-Adam Bates
-Associate Professor
-(217) 300-4653
-batesa@illinois.edu
-4306 Siebel Center for Comp Sci
+Sarita V. Adve
+Richard T. Cheng Professor
+(217) 333-8461
+sadve@illinois.edu
+4104 Siebel Center for Comp Sci
 For More Information
-Secure & Transparent Systems Laboratory
-adambates.org
+Prof. Adve's Home Page
 Education
- Ph.D., Computer Science, University of Florida, 2016. Thesis: "Designing and Leveraging Trustworthy Provenance-Aware Systems." Advisor: Kevin Butler
- M.Sc, Computer Science, University of Oregon, 2012. Thesis: "Detecting Compute Cloud Co-residency with Network Flow Watermarking Techniques." Advisor: Kevin Butler
- B.Sc., Computer Science, University of Maryland, 2006.
+Computer Science, Ph.D., University of Wisconsin-Madison, 1993
 Research Interests
-Systems Security
-System Auditing, Data Provenance
-IoT/Mobile Security & Privacy
-Network & Communications Security
+
+Research Areas
+Architecture, Compilers, and Parallel Computing
 
 URL
-https://cs.illinois.edu/about/people/department-faculty/batesa
+https://cs.illinois.edu/about/people/department-faculty/sadve
