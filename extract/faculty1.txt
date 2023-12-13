@@ -1,4 +1,4 @@
-Lawrence Angrave
+Tarek Abdelzaher
 Sohaib and Sara Abbasi Professor and Willett Faculty Scholar
 (217) 265-6793
 zaher@illinois.edu
@@ -16,6 +16,7 @@ Machine Learning for IoT/CPS
 Internet of Things (IoT)
 Cyber-Physical Systems (CPS)
 Sensor Networks and Crowdsensing
+Intelligent Real-time Systems
 
 URL
-https://cs.illinois.edu/about/people/department-faculty/angrave
+https://cs.illinois.edu/about/people/department-faculty/zaher
