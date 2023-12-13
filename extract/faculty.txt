@@ -1,0 +1,23 @@
+Nancy M. Amato
+Abel Bliss Professor of Engineering and Department Head
+(217) 333-3426
+namato@illinois.edu
+2248 Siebel Center for Comp Sci
+
+For More Information
+Nancy Amato's CV
+Parasol Lab
+
+Biography
+Nancy M. Amato is Head of the Computer Science Department and Abel Bliss Professor of Engineering at the University of Illinois at Urbana-Champaign. She received undergraduate degrees in Mathematical Sciences and Economics from Stanford, and M.S. and Ph.D. degrees in Computer Science from UC Berkeley and the University of Illinois, respectively. Before returning to her alma mater in 2019, she was Unocal Professor and Regents Professor at Texas A&M University and Senior Director of Engineering Honors Programs.
+Research Interests
+Parallel and distributed computing, parallel algorithms, performance modeling and optimization.
+Motion planning, robotics, computational biology, computational geometry, animation, CAD, VR.
+Research Areas
+Architecture, Compilers, and Parallel Computing
+Artificial Intelligence
+Bioinformatics and Computational Biology
+Scientific Computing
+Theory and Algorithms
+URL
+https://cs.illinois.edu/about/people/department-faculty/namato
