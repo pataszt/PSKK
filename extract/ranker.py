@@ -36,14 +36,14 @@ def main():
     file_path = 'combined_output.txt'  # Path to the text file containing professor data
     professors = parse_professor_data(file_path)
 
-    student_interests = input("Enter your research interests (separated by commas): ").split(',')
+    student_interests = input("Enter your research interests (separated by semicolons): ").split(';')
     student_interests = [interest.strip() for interest in student_interests]
 
     rankings = rank_professors(professors, student_interests)
 
     output_file_path = 'rankings.txt'
     write_rankings_to_file(rankings, output_file_path)
-    print(f"Rankings have been written to {output_file_path}")
+    print(rankings)
 
 if __name__ == "__main__":
     main()
