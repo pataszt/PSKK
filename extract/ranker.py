@@ -1,5 +1,6 @@
 import re
 import webbrowser
+
 def parse_professor_data(file_path):
     with open(file_path, 'r') as file:
         content = file.read()
@@ -16,6 +17,7 @@ def parse_professor_data(file_path):
             professors.append(professor)
     return professors
 
+
 def rank_professors(professors, student_interests):
     rankings = []
     for prof in professors:
@@ -28,15 +30,15 @@ def rank_professors(professors, student_interests):
 def write_rankings_to_file(rankings, file_path):
     with open(file_path, 'w') as file:
         file.write("Professor Rankings based on your interests:\n")
+        print("Professor Rankings based on your interests:\n")
         for rank, (name, score) in enumerate(rankings, start=1):
             file.write(f"{rank}. {name} - Score: {score}\n")
-
+            print(f"{rank}. {name} - Score: {score}\n")
 
 def main():
     file_path = 'combined_output.txt'  # Path to the text file containing professor data
     professors = parse_professor_data(file_path)
-    research_found = False
-
+    
     student_interests = input("Enter your research interests (separated by semicolons): ").split(';')
     student_interests = [interest.strip() for interest in student_interests]
 
@@ -44,7 +46,8 @@ def main():
 
     output_file_path = 'rankings.txt'
     write_rankings_to_file(rankings, output_file_path)
-    print(rankings)
+    #print(rankings)
+    
 
     professor_interest = input("Enter one of the Professors that you would like to look into: ")
     for professor in professors:
@@ -52,6 +55,7 @@ def main():
             professor_url = professor['url']
             break
     webbrowser.open(professor_url)
+
 
 if __name__ == "__main__":
     main()
