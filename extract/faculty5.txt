@@ -1,0 +1,18 @@
+Ram Alagappan
+Assistant Professor
+ramn@illinois.edu
+
+For More Information
+Ram Alagappan's Webpage
+
+Education
+Ph.D. in Computer Science, University of Wisconsin - Madison, 2019
+M.S. in Computer Science, University of Wisconsin - Madison, 2018
+Research Interests
+Storage systems
+Distributed systems
+Operating systems
+Research Areas
+Systems and Networking
+URL
+https://cs.illinois.edu/about/people/department-faculty/ramn
