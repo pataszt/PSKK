@@ -1,0 +1,20 @@
+Paul Fischer
+Professor
+(217) 300-2031
+fischerp@illinois.edu
+4320 Siebel Center for Comp Sci
+For More Information
+Paul Fischer's Homepage
+
+Research Areas
+Scientific Computing
+
+Recent Courses Taught
+CS 450 (CSE 401, ECE 491, MATH 450) - Numerical Analysis
+CS 555 (CSE 510, MATH 552) - Numerical Methods for PDEs
+CS 556 (CSE 511) - Iterative & Multigrid Methods
+TAM 470 (CSE 450) - Computational Mechanics
+TAM 570 (CSE 560) - Computational Fluid Mechanics
+
+URL
+https://cs.illinois.edu/about/people/department-faculty/fischerp

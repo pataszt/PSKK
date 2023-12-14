@@ -1,0 +1,24 @@
+Payam Delgosha
+
+Research Assistant Professor
+delgosha@illinois.edu
+3328 Siebel Center for Comp Sci
+For More Information
+Research Webpage
+Research Statement
+Delgosha's research interests are broadly in the areas of applied probability, information theory, game theory, machine learning and quantum information theory.
+
+Research Interests
+Machine Learning, Information Theory, Game Theory, and Theory and Algorithms
+
+Research Areas
+Artificial Intelligence
+Theory and Algorithms
+
+Recent Courses Taught
+CS 173 - Discrete Structures
+CS 498 AML (CS 498 AMO) - Applied Machine Learning
+CS 598 DEL - Methods & Algor. in Lg. Graphs
+
+URL
+https://cs.illinois.edu/about/people/department-faculty/delgosha
