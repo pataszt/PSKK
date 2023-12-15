@@ -6,7 +6,7 @@ output_file = 'combined_output.txt'
 
 with open(output_file, 'a') as output:
     for filename in glob.glob(file_pattern):
-        with open(filename, 'r') as file:
+        with open(filename, 'r', encoding="utf8") as file:
             text = file.read()
 
             full_name_pattern = '^(.*)\n'
