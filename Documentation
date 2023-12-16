@@ -28,5 +28,9 @@ Aftewards, input a professor's name to visit their webpage.
 Dependencies: The scripts use standard Python libraries (re, glob, webbrowser).
 
 4. Team Contributions
--Patrick was the team coordinator and worked on creating the group meetings, github repo, documentation, and extraction portion of the project.
--Kavin, Kumar, and Sean worked on the ranker.py file and creating a ranker.txt file that takes the ranking of the professors as well as opening the URL page of the professor inputted.
+-Patrick was the team coordinator and worked on creating the group meetings, github repo, documentation, and extraction portion of the project as well as adding comments.
+-Sean worked on the functionality of the professor input and the ability to grab the url and open it to the default web browser that the user used to show the Faculty page of the research interest. 
+-Kavin worked on the Ranker.py and basically have the input aspect of the research interest and output the ranks of the different professors that have that interest.
+-Kumar debugged the code and looked into the functionality of the expertsearch and helped understand the functionality.
+
+-Everyone added 8 faculty members from the CS faculty homepage of UIUC for testing.
