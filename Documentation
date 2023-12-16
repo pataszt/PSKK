@@ -1,0 +1,32 @@
+1. Overview
+The functionality of the project is designed for extracting, processing, and ranking faculty information from text files. The primary functions include:
+
+-  Extracting Faculty Details: The first script (faculty_info_extractor.py) scans files matching a specified pattern (e.g., faculty*.txt), 
+extracting details such as names, emails, URLs, and research interests, and compiles them into a single output file.
+
+-  Ranking Faculty Based on Student Interests: The second script (faculty_ranker.py) reads the compiled faculty data, allows students to input their research interests, 
+and then ranks the faculty based on these interests. It also provides functionality to open a faculty member's URL in a web browser.
+
+2. Implementation
+Faculty Info Extractor (extract.py):
+
+File Pattern and Output: Uses the glob module to identify files and re for regular expression operations.
+Data Extraction: Regular expressions are used to extract full names, emails, URLs, and research interests from each file.
+Output Writing: Extracted data is written to combined_output.txt in a structured format.
+Faculty Ranker (ranker.py):
+
+Data Parsing: Parses the structured data from combined_output.txt into a list of dictionaries.
+Ranking Algorithm: Ranks professors based on the overlap between their listed interests and the student's interests.
+Output and Interaction: Writes rankings to rankings.txt and allows students to open a selected professor's URL in a web browser.
+
+3. Usage
+Installation: No special installation required. Ensure Python is installed on your system. Make sure to clone the github repository and change directory to the extract directory.
+Running the Scripts:
+Run extract.py first to generate combined_output.txt.
+Then, run ranker.py, input your research interests when prompted, and view the rankings.
+Aftewards, input a professor's name to visit their webpage.
+Dependencies: The scripts use standard Python libraries (re, glob, webbrowser).
+
+4. Team Contributions
+-Patrick was the team coordinator and worked on creating the group meetings, github repo, documentation, and extraction portion of the project.
+-Kavin, Kumar, and Sean worked on the ranker.py file and creating a ranker.txt file that takes the ranking of the professors as well as opening the URL page of the professor inputted.
