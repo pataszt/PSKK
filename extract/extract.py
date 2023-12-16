@@ -8,7 +8,7 @@ with open(output_file, 'a') as output:
     for filename in glob.glob(file_pattern):
         with open(filename, 'r', encoding="utf8") as file:
             text = file.read()
-
+            #Regex to find matches on faculty data
             full_name_pattern = '^(.*)\n'
             full_name_match = re.search(full_name_pattern, text)
 
@@ -20,7 +20,7 @@ with open(output_file, 'a') as output:
 
             interests_pattern = 'Research Interests\n(.*?)(?=\n\n|\Z)'
             interests_match = re.search(interests_pattern, text, re.DOTALL)
-
+            #Output faculty data into a combined_output.txt file
             if full_name_match:
                 full_name = full_name_match.group(1)
                 output.write("Name: " + full_name + "\n")
