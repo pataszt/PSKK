@@ -17,7 +17,7 @@ def parse_professor_data(file_path):
             professors.append(professor)
     return professors
 
-
+#Ranking function
 def rank_professors(professors, student_interests):
     rankings = []
     for prof in professors:
@@ -26,7 +26,7 @@ def rank_professors(professors, student_interests):
 
     rankings.sort(key=lambda x: x[1], reverse=True)
     return rankings
-
+#Write the ranking functions into the rankings.txt file
 def write_rankings_to_file(rankings, file_path):
     with open(file_path, 'w') as file:
         file.write("Professor Rankings based on your interests:\n")
